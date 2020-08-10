@@ -51,7 +51,7 @@ node server.js
 
 8.prototype 사이트맵 구조
 
-
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/65533485/89747292-20c95a00-daf9-11ea-91ca-2ea172024136.png)
 
 -web_template
 
@@ -107,14 +107,14 @@ web_template 폴더 안에 wallet 폴더가 존재하면 삭제 후 다음과 �
 
 9. web_template Architecture
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/65533485/89754661-becc1d00-db17-11ea-8346-12d509a9de1b.gif)
 
-
-
+![Untitled Diagram (2)](https://user-images.githubusercontent.com/65533485/89754218-f89c2400-db15-11ea-8a29-7243e924522f.png)
 
 10. Web_template 시나리오
 
-
+![Untitled Diagram (4)](https://user-images.githubusercontent.com/65533485/89756352-3486b780-db1d-11ea-8f21-34551fc01096.png)
 
 11. Web_template Uml
 
-
+![Untitled Diagram (5)](https://user-images.githubusercontent.com/65533485/89759170-841cb180-db24-11ea-8fca-51d62aad2087.png)
